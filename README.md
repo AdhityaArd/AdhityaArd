@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Adhitya Ardhiansyah from Tangerang, Indonesia<br><br>- 🔭 I’m currently search position as Software Quality Assurance<br>- 📚 I'm currently learning Jmeter and Loadrunner<br>- ⚡ In my free time I playing valorant and study something about Software Quality Assurance</p>
+<p align="left">I'm Adhitya Ardhiansyah from Tangerang, Indonesia<br><br>- 🔭 I’m Currently Search Oppurtunity as Software Quality Assurance<br>- 📚 I'm currently learning Jmeter and Loadrunner<br>- ⚡ In my free time I playing valorant and study something about Software Quality Assurance</p>
 
 ###
 
@@ -65,7 +65,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AdhityaArd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
